@@ -1,6 +1,6 @@
 # Android-Game-Guide-App
 ### Log in and Registration navigation:
-[![IMAGE ALT TEXT HERE](https://drive.google.com/open?id=1C8B5OvH1RkRCB0JouiueSV1l3HFTixwn)](https://drive.google.com/open?id=1wOjCDGIiruikBMlnYNrBMnjbDnk8nYTl)
+[![IMAGE ALT TEXT HERE](https://imgur.com/izuDC28)](https://drive.google.com/open?id=1wOjCDGIiruikBMlnYNrBMnjbDnk8nYTl)
 
 ### Main Game Page navigation:
 [![IMAGE ALT TEXT HERE]()](https://drive.google.com/open?id=1wOjCDGIiruikBMlnYNrBMnjbDnk8nYTl)
