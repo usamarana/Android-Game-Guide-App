@@ -1,6 +1,6 @@
 # Android-Game-Guide-App
 
-Click on the image below or click [here](https://drive.google.com/open?id=1wOjCDGIiruikBMlnYNrBMnjbDnk8nYTl) for source code.
+Click on the images below or click [here](https://drive.google.com/open?id=1wOjCDGIiruikBMlnYNrBMnjbDnk8nYTl) for source code.
 
 ## Log in and Registration navigation:
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/YnE3pIO.png)](https://drive.google.com/open?id=1wOjCDGIiruikBMlnYNrBMnjbDnk8nYTl)
